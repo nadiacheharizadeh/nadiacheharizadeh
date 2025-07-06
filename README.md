@@ -1,4 +1,13 @@
-## Hi there 👋
+## About me
+
+I won't waste anyone's time with the usual yada yada about my cv, major or where I study. I'm an enthusiast for simulating real life problems on computers, might even call it
+obsession with predicting and control. My genuine interests are neuroscience and coding mostly with Python since it's easy ( why would I lie anyways?:) ).
+
+## What's the goal?
+
+To be honest? Nothing really.
+This is my little archive of keeping track of my progress, but on the other hand I'd be glad if people thought this would be usefull to them too, and my progress of learning
+will help them in any shape or form.
 
 <!--
 **nadiacheharizadeh/nadiacheharizadeh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
