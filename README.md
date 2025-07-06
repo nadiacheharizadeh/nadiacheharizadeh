@@ -1,7 +1,7 @@
 ## About me
 
 I won't waste anyone's time with the usual yada yada about my cv, major or where I study. 
-I'm an enthusiast for simulating real life problems on computers, might even call it anobsession with predicting and control. 
+I'm an enthusiast for simulating real life problems on computers, might even call it an obsession with predicting and control. 
 My genuine interests are neuroscience and coding mostly with Python since it's easy ( why would I lie anyways?:) ).
 
 ## What's the goal?
